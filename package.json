@@ -1,0 +1,17 @@
+{
+  "name": "surf-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.17.0",
+    "helmet": "^3.18.0"
+  }
+}
